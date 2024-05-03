@@ -1,24 +1,4 @@
 안녕하세요라
+반갑습니다.
 
-// git init >> 처음 한 번만
-// : 깃 사용 시작
-
-// --- 사용자 등록 ---
-
-//! ----------------- !//
-
-// git status
-// : 깃 상태 확인
-
-// git add . 
-// : 스테이징
-
-// git commit -m "메시지 입력"
-// : 로컬 리포지토리에 기록
-
-// 원격 주소를 사용해서 로컬 저장소 - 원격 저장소 연결
-// git remote add origin 원격주소지URL
-// git remote add origin https://github.com/idjsi0508/git-0503-jsi.git
-
-// 로컬의 데이터 >> 원격에 저장
-// git push origin master
+----- 기존의 로컬 리포지토리에서 작성한 내용 입니다. -----
